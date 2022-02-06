@@ -1,0 +1,2 @@
+# xrust
+Exercises in Rust
