@@ -3,7 +3,7 @@
 
 ## practical utils
 
-+ [fetch coin price from CoinMarketCap](coinprice/README.md)
++ [fetch coin price from CoinMarketCap](coinprice/)
 
 ## rewrite cli app
 
