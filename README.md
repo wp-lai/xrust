@@ -5,6 +5,9 @@
 
 + [fetch coin price from CoinMarketCap](coinprice/)
 
+## network stuff
++ [create an echo server](echo-server/)
+
 ## rewrite cli app
 
 + [echo](echo/src/main.rs)
