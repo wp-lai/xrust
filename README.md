@@ -12,5 +12,6 @@
 
 + [echo](echo/src/main.rs)
 + [cat](cat/src/main.rs)
++ [head](head/src/main.rs)
 
 
