@@ -1,14 +1,17 @@
 # xRust
 🦀Exercises in Rust🦀
 
-## practical utils
+## Practical utils
 
-+ [fetch coin price from CoinMarketCap](coinprice/)
++ [Fetch coin price from CoinMarketCap](coinprice/)
++ [Generate a new seed phrase](mnemonic/)
 
-## network stuff
-+ [create an echo server](echo-server/)
 
-## rewrite cli app
+
+## Network stuff
++ [Create an echo server](echo-server/)
+
+## Rewrite cli app
 
 + [httpie](httpie/)
 + [echo](echo/src/main.rs)
