@@ -6,6 +6,9 @@
 + [Fetch coin price from CoinMarketCap](coinprice/)
 + [Generate a new seed phrase](mnemonic/)
 
+## Smart contracts on NEAR Protocol
+
++ [Counter](counter/)
 
 
 ## Network stuff
