@@ -5,6 +5,7 @@
 
 + [Fetch coin price from CoinMarketCap](coinprice/)
 + [Generate a new seed phrase](mnemonic/)
++ [Get the ENS namehash from a name](namehash/)
 
 ## Smart contracts on NEAR Protocol
 
