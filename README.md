@@ -1,6 +1,9 @@
 # xRust
 🦀Exercises in Rust🦀
 
+## Rustlings
++ [solution](rustlings/)
+
 ## Practical utils
 
 + [Fetch coin price from CoinMarketCap](coinprice/)
@@ -10,7 +13,6 @@
 ## Smart contracts on NEAR Protocol
 
 + [Counter](counter/)
-
 
 ## Network stuff
 + [Create an echo server](echo-server/)
